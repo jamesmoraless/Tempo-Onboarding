@@ -101,24 +101,6 @@ Every Friday: 15-minute call with Engineering Manager. You demo what you shipped
 
 ---
 
-## Scorecard
-
-You are scored each Friday on a 1–5 scale:
-
-| Category | Weight | What We Measure |
-|---|---|---|
-| Feature Delivery | 25% | Planned vs. delivered. Quality, not just completion. |
-| AI Tool Mastery | 20% | Claude Code usage quality. Critical review of AI output. |
-| Code Quality & Testing | 20% | e2e coverage, PR standards, clean code, patterns. |
-| Communication | 20% | Standup quality, blocker flagging, Slack clarity. |
-| Problem Solving | 15% | Self-sufficiency, initiative, right questions at right time. |
-
-**Graduation:** 3.5+ average, no category below 3.0 in final week.
-
-Full grading criteria: [Developer Onboarding Grading Sheet](https://docs.google.com/document/d/1gw_WiY2pkc3_8yBcKuj9xj7T45kSdFye/edit?usp=sharing&ouid=105346785631447609152&rtpof=true&sd=true)
-
----
-
 ## Full Onboarding Documentation
 
 For complete details on daily requirements, communication guidelines, delivery expectations, and what happens after graduation, see the [Developer Onboarding Page](https://www.notion.so/287994f4c04680dc9fd4ca0bade8d519) on Notion.
